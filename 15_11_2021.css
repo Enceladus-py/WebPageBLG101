@@ -1,0 +1,40 @@
+
+a:hover{
+    text-decoration: none;
+}
+
+li:first-child{
+    border: thick solid green;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    padding: 1ex;
+    width: 40%;
+}
+
+p.centered{
+    text-align: center;
+    width: 50%;
+}
+
+h1{
+    text-align: center;
+    border:  thick solid red;
+    text-decoration: none;
+    padding: 1ex;
+    width: 50%;
+    color: red;
+    font-size: 24pt;
+    font-family: tahoma,helvetica, sans-serif;
+
+}
+
+em {
+  font-style: normal;
+  color: green;
+  background-color: lightgrey;
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: square; 
+}
